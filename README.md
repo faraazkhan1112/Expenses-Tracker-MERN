@@ -13,6 +13,7 @@ npm install axios
  
 #Run server \
 nodemon server \
+
 #Prod \
 npm start \
 Runs the app in the development mode.\
