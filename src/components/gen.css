@@ -1,0 +1,9 @@
+h3{
+    font-family: Calibri !important;
+    font-weight: bold !important;
+    font-size: 20px;
+}
+tbody,select,input,label{
+    font-family: Calibri Light !important;
+    font-size: 18px;
+}
