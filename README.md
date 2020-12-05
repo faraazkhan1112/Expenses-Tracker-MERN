@@ -1,10 +1,10 @@
 # Web-Tech-mini-project
-Expenses Tracker built using MERN stack.
+Expenses Tracker built using MERN stack. \
 
 
-#Dependencies
-npm install express cors mongoose dotenv
-npm install -g nodemon
+#Dependencies \
+npm install express cors mongoose dotenv \
+npm install -g nodemon \
 
 #Bootstrap CSS framework
 npm install bootstrap
