@@ -7,7 +7,7 @@ npm install express cors mongoose dotenv \
 npm install -g nodemon 
 
 #Bootstrap CSS framework \
-npm install bootstrap \
+npm install bootstrap 
 
 #Axios library \
 npm install axios 
