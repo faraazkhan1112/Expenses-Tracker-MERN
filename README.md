@@ -4,12 +4,13 @@ Expenses Tracker built using MERN stack.
 
 #Dependencies \
 npm install express cors mongoose dotenv \
-npm install -g nodemon \
+npm install -g nodemon 
 
 #Bootstrap CSS framework \
 npm install bootstrap \
+
 #Axios library \
-npm install axios \
+npm install axios 
  
 
 #Run server \
