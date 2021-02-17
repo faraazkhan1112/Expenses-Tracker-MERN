@@ -1,5 +1,4 @@
-# Web-Tech-mini-project
-Expenses Tracker (MERN) 
+# Expenses Tracker (MERN) 
 
 #Dependencies \
 npm install express cors mongoose dotenv \
