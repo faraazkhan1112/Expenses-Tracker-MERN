@@ -11,7 +11,7 @@ npm install bootstrap
 npm install axios 
  
 #RUN SERVER \
-nodemon server \
+nodemon server 
 
 #PROD \
 npm start \
