@@ -1,5 +1,5 @@
 # Expenses Tracker (MERN) 
-
+**Description**
 **1. Install Dependencies** 
 >npm install express cors mongoose dotenv \
 >npm install -g nodemon 
