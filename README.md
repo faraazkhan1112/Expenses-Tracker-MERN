@@ -1,6 +1,6 @@
 # Expenses Tracker (MERN) 
 **Description** \
-A Web Application to manage a log of your expenses and transactions. Each expense consists of the amount spent, who and what it was spent for and the date of transaction. Expenses can be directly edited or deleted from the log.\
+Web Application to manage a log of your expenses and transactions. Each expense consists of the amount spent, who and what it was spent for and the date of transaction. Expenses can be directly edited or deleted from the log.\
 ***Built using Express.js web framework for the backend APIs and React library for front end views.\
 The data is stored using MongoDB (NoSQL Database).***
 
