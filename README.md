@@ -1,19 +1,19 @@
 # Expenses Tracker (MERN) 
 
-#Dependencies \
+**1. Install Dependencies** \
 npm install express cors mongoose dotenv \
 npm install -g nodemon 
 
-#Bootstrap CSS Framework \
+**Bootstrap CSS Framework** \
 npm install bootstrap 
 
-#Axios Library \
+**Axios Library** \
 npm install axios 
  
-#Run Server \
+**2. Run Server** \
 nodemon server 
 
-#Prod \
+**Prod** \
 npm start \
-Runs the app in development mode.\
+*Runs the app in development mode.*\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
