@@ -4,6 +4,7 @@ Web Application to manage a log of your expenses and transactions. Each expense 
 ***Built using Express.js web framework for the backend APIs and React library for front end views.\
 The data is stored using MongoDB (NoSQL Database).***
 
+-----
 **1. Install Dependencies** 
 >npm install express cors mongoose dotenv \
 >npm install -g nodemon 
@@ -22,3 +23,4 @@ npm install axios
 *Runs the app in development mode.*\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![***Expenses Tracker Screenshots***](etss1.png)
+-----
